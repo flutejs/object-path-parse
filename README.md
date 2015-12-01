@@ -17,4 +17,4 @@ console.log(parse("a.b.x['wfw.efef']"))    // ["a","b","x","wfw.efef"]
 
 - parse(String)
 
-  return the the path array
+  return the path array
